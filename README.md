@@ -7,4 +7,4 @@ You can [create a new issue](https://github.com/Like-Minds/Feedback/issues/new).
 ## Other formats
 Don't like the issues here? Reach us in other places:
 - [Typeform](https://nathankluth.typeform.com/to/szt7cs)
-- [Email](https://mailto:info@meetlikeminds.io)
+- [Email](mailto:info@meetlikeminds.io)
